@@ -1,0 +1,10 @@
+{
+  "name": "@apsu/express-fido",
+  "version": "0.0.0",
+  "description": "simple FIDO authentication for express apps",
+  "type": "module",
+  "exports": "./express-fido.js",
+  "dependencies": {
+    "fido2-lib": "^3.4.3"
+  }
+}
